@@ -9,6 +9,7 @@ I am passionate about building web applications and continuously improving my sk
 - HTML
 - CSS
 - JavaScript
+- Mern Stack
 - Basics of Backend Development
 - Git & GitHub
 
