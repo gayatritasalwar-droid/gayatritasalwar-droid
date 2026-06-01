@@ -74,10 +74,10 @@ A MERN Stack application for managing employees, contractors, taking new workers
 ---
 
 
-## 📫 How to reach me
+## 📫 Connect With Me
 
-📧 [gayatritasalwar@gmail.com](mailto:gayatritasalwar@gmail.com)
+📧 gayatritasalwar@gmail.com
 
-💼 LinkedIn: linkedin.com/in/gayatri-tasalwar-42a67a292
+💼 LinkedIn: [Gayatri Tasalwar](https://www.linkedin.com/in/gayatri-tasalwar-42a67a292)
 
-⭐ Always eager to learn, build, and contribute to meaningful projects.
+🎯 Open to internship and placement opportunities.
