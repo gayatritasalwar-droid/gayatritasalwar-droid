@@ -21,28 +21,22 @@ Building web applications and learning new technologies to solve real-world prob
 🎯 Looking for Internship and Placement Opportunities
 
 ---
-
 ## 🛠️ Tech Stack
 
-### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-HTML • CSS • JavaScript • React.js
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Backend
-
-Node.js • Express.js
-
-### Database
-
-MongoDB
-
-### Tools
-
-Git • GitHub • Postman • Vercel
-
-### Languages
-
-Java • JavaScript • C • C++
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -58,13 +52,11 @@ Java • JavaScript • C • C++
 ---
 
 ## 🚀 Featured Projects
-## Full Stack Web Application (Property Booking Web App)
-  - Description: A web application developed as part of my full stack learning journey. To rent ,sell and book properties in
-    the nearby tourist area for stay.
+## 1. 🏠 Property Booking Web Application
+A full-stack web platform designed for renting, selling, and booking properties in tourist areas. The application helps users discover accommodations, view property information, and make reservations conveniently.
 
-### 👨‍💼 Workforce Management System
-
-A MERN Stack application for managing employees, contractors, attendance, and workforce records.
+## 2. 👨‍💼 Workforce Management System
+A MERN Stack application for managing employees, contractors, taking new workers, and workforce operations.
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
@@ -81,9 +73,6 @@ A MERN Stack application for managing employees, contractors, attendance, and wo
 
 ---
 
-
-
----
 
 ## 📫 How to reach me
 
